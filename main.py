@@ -135,7 +135,7 @@ ANSWERDEFAULT = 3
 BGCOLOR = "yellow green"
 
 # the class of kids
-students = ["miguel", "logan", "sam", "gabby", "maggie", "josh", "ael", "ael", "miguel", "logan", "sam", "gabby", "maggie", "josh", "ael", "miguel", "logan", "sam", "gabby", "maggie", "josh"]
+students = ["josei","avery","alphy","riley","josei","avery","alphy","riley","josei","avery","alphy","riley"]
 
 # parse the arguements with the program
 if __name__ == '__main__':
